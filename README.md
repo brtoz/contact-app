@@ -3,7 +3,7 @@
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/brtoz/react-odev-1
+  git clone https://github.com/brtoz/contact-app
 ```
 
 Proje dizinine gidin
