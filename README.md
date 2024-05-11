@@ -9,7 +9,7 @@ Projeyi klonlayın
 Proje dizinine gidin
 
 ```bash
-  cd react-odev-1
+  cd contact-app
 ```
 
 Gerekli paketleri yükleyin
